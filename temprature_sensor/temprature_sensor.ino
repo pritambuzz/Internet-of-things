@@ -12,8 +12,8 @@ void setup()
   Serial.begin(9600);
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("Axetla Systems");
-  Serial.println("Axetla Systems - TEMPERATURE & POWER Sensor");
+  lcd.print("Systems");
+  Serial.println("Systems - TEMPERATURE & POWER Sensor");
   Serial.println();
   Serial.println();
   delay(2000);
